@@ -4,8 +4,9 @@
   <samp>
     Hi there 👋 <br>
     I'm Ivona and I'm a Data Science enthusiast <br>
-    I’m currently exploring all things about data <br>
-     <br>
+    <br>
+    In God we trust; All other must bring data <br>
+    <br>
     <br>
     Find me on the Internet: <br>
     <a href="https://www.linkedin.com/in/ivona-ristova-682524b6">LinkedIn</a> |
