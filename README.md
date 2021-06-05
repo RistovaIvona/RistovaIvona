@@ -3,7 +3,7 @@
   <br>
   <samp>
     Hi there 👋 <br>
-    I'm Ivona and I'm a Data Science enthusiast <br>
+    I'm Ivona and I'm a Data Scientist <br>
     <br>
     In God we trust; All other must bring data <br>
     <br>
