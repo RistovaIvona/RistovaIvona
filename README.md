@@ -9,7 +9,8 @@
     <br>
     <br>
     Find me on the Internet: <br>
-    <a href="https://www.linkedin.com/in/ivona-ristova-682524b6">LinkedIn</a> |
-    <a href="https://github.com/RistovaIvona">Portfolio</a> <br> 
+    <a href="https://www.linkedin.com/in/ivona-ristova-682524b6">LinkedIn</a> 
+    #|
+    #<a href="https://github.com/RistovaIvona">Portfolio</a> <br> 
   </samp>
 </p>
